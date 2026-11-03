@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
+  <title id="t">Thamizhenthi Venkatesan</title>
+  <desc id="d">UI/UX Designer and Frontend Developer based in Dubai, UAE</desc>
+  <rect width="1280" height="300" rx="16" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="16" fill="none" stroke="#30363D"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <rect x="72" y="84" width="40" height="4" rx="2" fill="#58A6FF"/>
+    <text x="72" y="148" font-size="52" font-weight="650" fill="#F0F6FC" letter-spacing="-1">Thamizhenthi Venkatesan</text>
+    <text x="72" y="194" font-size="24" font-weight="500" fill="#C9D1D9">UI/UX Designer &amp; Frontend Developer</text>
+    <text x="72" y="232" font-size="18" fill="#8B949E">Product design · Figma · React · WordPress   —   Dubai, UAE · Open to remote</text>
+  </g>
+  <g fill="none" stroke-width="1.5">
+    <rect x="1000" y="70" width="168" height="160" rx="14" stroke="#30363D"/>
+    <rect x="1016" y="86" width="136" height="14" rx="4" fill="#161B22" stroke="none"/>
+    <rect x="1016" y="112" width="64" height="102" rx="8" stroke="#58A6FF"/>
+    <rect x="1090" y="112" width="62" height="46" rx="8" stroke="#30363D"/>
+    <rect x="1090" y="168" width="62" height="46" rx="8" stroke="#30363D"/>
+  </g>
+</svg>
